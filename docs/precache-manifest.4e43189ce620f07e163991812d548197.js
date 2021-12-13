@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "48affbc2d0ee61ff52437dd1a06e1c3f",
+    "revision": "a37a1fc502a1591d7323cace34a09a6b",
     "url": "/index.html"
   },
   {
-    "revision": "ae1a2e10f11f09e215eb",
+    "revision": "88deab5e577629d5db76",
     "url": "/static/css/2.2ce0d9b2.chunk.css"
   },
   {
-    "revision": "ae1a2e10f11f09e215eb",
-    "url": "/static/js/2.99ff2ece.chunk.js"
+    "revision": "88deab5e577629d5db76",
+    "url": "/static/js/2.2f5228fd.chunk.js"
   },
   {
     "revision": "ca31c103b8557fdfbea79cfd16fa1518",
-    "url": "/static/js/2.99ff2ece.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.2f5228fd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "97bfc7bb2f25e5c4e312",
-    "url": "/static/js/main.911d8cca.chunk.js"
+    "revision": "b6d89064b7da69ff9f87",
+    "url": "/static/js/main.66c3e6d7.chunk.js"
   },
   {
     "revision": "73635f645c271e35ff15",
@@ -62,10 +62,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b01172005be3eba0ddbe50bd07d3ece8",
     "url": "/static/media/dc-wonder.b0117200.jpg"
-  },
-  {
-    "revision": "760be87bf5765f059a765b6805ee8997",
-    "url": "/static/media/marvel-boluda.760be87b.jpg"
   },
   {
     "revision": "71c5a519e43cab5350b5a5dbb45f4ece",

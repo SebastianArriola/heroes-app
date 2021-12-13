@@ -158,13 +158,5 @@ export const heroes = [
         'alter_ego':'Norrin Radd',
         'first_appearance':'The Fantastic Four #48',
         'characters':'Norrin Radd'
-    },
-    {
-        'id': 'marvel-boluda',
-        'superhero':'Super boluda', 
-        'publisher':'Marvel Comics', 
-        'alter_ego':'Jazmin vazquez',
-        'first_appearance':'en mi casa anashe',
-        'characters':'como'
     }
 ]
